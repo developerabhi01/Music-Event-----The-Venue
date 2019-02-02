@@ -1,9 +1,11 @@
 This project was bootstrapped with [Music-Event-----The-Venue](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts   
 
 In the project directory, you can run:
-
+      
+	  
+	  
 ### `npm start`
 
 Runs the app in the development mode.<br>
